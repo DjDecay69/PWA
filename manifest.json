@@ -6,7 +6,7 @@
     "display": "fullscreen",
     "orientation": "portrait",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "https://djdecay69.github.io/PWA/",
     "icons": [
         {
             "src": "./img/icon.png",
